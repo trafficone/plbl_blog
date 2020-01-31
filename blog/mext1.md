@@ -10,9 +10,6 @@ One issue I noticed with the MEXT, is there is precious little information out t
 In late 2018, my wife and I were thinking about what we should do after she finished her PhD. We were living in Portland, OR on the west coast of the USA, but both of us wanted to move abroad.
 In addition, I decided I wanted a career change from business intelligence to bioinformatics.
 We considered a few options, but schools in the Netherlands and Japan really stood out to me.
-We were flush with cash (business intelligence pays well, this was not a sound career move),
-so we had the opportunity to check out a few schools. In the fall of 2018, we visited the Netherlands,
-and I interviewed a few researchers about what they did, and why I should go to their school.
 
 With a full notebook of notes in hand, I turned my attention to Japan. My wife had an academic 
 conference she was able to attend there, so I could tag along for the price of a plane ticket.
