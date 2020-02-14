@@ -2,6 +2,10 @@
 
 This is my personal website and all views are my own and do not necessarily represent those of my employers, past or present, or their subsidiaries.
 
+## Blog
+
+Be sure to check out the eponymous [blog](/blog).
+
 ## Bio
 
 I am an engineer with an interest in horticulture, botany, and bioinformatics. I write infrequently in this
@@ -12,7 +16,7 @@ like plants, but no promises.
 I've lived in the Pacific Northwest for 10 years, 6 in Portland, OR and 4 in Seattle, WA. I've
 worked at tech companies almost all of my professional life, and programmed recreationally for 
 almost all of my adult life. 
-I've been married to my beautiful wife since 2011, and we have %NaN kids together.
+I've been married to my beautiful wife since 2011.
 
 ## Contact 
 
