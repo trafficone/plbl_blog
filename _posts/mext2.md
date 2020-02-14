@@ -1,3 +1,7 @@
+layout: page
+title: "My Mext Scholarship Adventure Part 2"
+date: 2020-02-13 00:00:00 -0000
+categories: MEXT Japan education
 # My MEXT Scholarship Adventure Part 2
 
 May 2019 was a very active month for me. The MEXT scholarship application was due at the end of the

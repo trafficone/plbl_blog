@@ -1,3 +1,7 @@
+layout: page
+title: "My Mext Scholarship Adventure Part 1"
+date: 2020-02-01 00:00:00 -0000
+categories: MEXT Japan education
 # My MEXT Scholarship Adventure Part 1
 
 I was a recipient of the MEXT Scholarship, usually referred to as "the MEXT". 

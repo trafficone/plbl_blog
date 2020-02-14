@@ -1,3 +1,8 @@
+layout: page
+title: "PLBL Index"
+date: 2020-01-30 00:00:00 -0000
+categories: botany navigation
+
 # Plant Blog
 
 This is my personal website and all views are my own and do not necessarily represent those of my employers, past or present, or their subsidiaries.
