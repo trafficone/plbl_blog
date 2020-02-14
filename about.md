@@ -24,7 +24,8 @@ I've been married to my beautiful wife since 2011.
 ## Contact 
 
 I'm not sure we're close enough for that.
-Please fax a contact request form to +1 (480) 203.1400
+
+Please fax a [contact request form](/contact) to +1 (480) 203.1400
 
 Be sure to include the method you wish to be contacted by, your name (or handle), and why 
 you want me to reach out. I don't respond to every fax I receive, but I certainly read all of them.

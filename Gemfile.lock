@@ -240,8 +240,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  ffi (>= 1.9.24)
   github-pages
-  jekyll
+  jekyll (>= 3.6.3)
 
 BUNDLED WITH
    2.1.4
