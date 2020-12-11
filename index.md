@@ -16,3 +16,5 @@ Latest posts:
 For all posts go [here](/blog).
 
 For more information about me, the blog, and contact info, go to the [about page](/about).
+
+For contact information, [contact me](/contact).
