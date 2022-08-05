@@ -6,3 +6,4 @@ relative_links:
 include:
   - index.md
 theme: jekyll-theme-tactile
+excerpt_separator: <!--more-->

@@ -5,7 +5,7 @@ date: 2022-08-05
 author: Jason Schlesinger
 tags: phone, software, Japan
 ---
-When I moved abroad, I decided to keep my US number. It made sense to me to port my number over to Twilio, so I can keep it without needing to keep it on me.
+When I moved abroad, I decided to keep my US number.<!--more--> It made sense to me to port my number over to Twilio, so I can keep it without needing to keep it on me.
 
 Twilio charges about $1/month for each phone number, and a few cents for SMS and calls. They're a service to help offload business' telephone needs, but as an individual the prices are eminently reasonable.
 ## Twilio Setup
