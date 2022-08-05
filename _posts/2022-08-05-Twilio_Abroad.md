@@ -47,7 +47,7 @@ Now you're done!
 If you're familiar with [AWS Lambda](https://aws.amazon.com/lambda/) then Twilio functions are a Twilio wrapper on top of it. When a message, call, or other Twilio trigger comes in, it fires off a Node.js function to handle the trigger. I use Pushover to forward my SMS messages to my mobile phone, but you can do anything.
 
 My Function is very barebones, I essentially copied the example and added a call to Pushover.
-```javascript
+```JavaScript
 const Pushover = require('node-pushover');
 
 exports.handler = function(context, event, callback) {
