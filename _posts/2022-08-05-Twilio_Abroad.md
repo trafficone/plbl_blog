@@ -5,7 +5,6 @@ date: 2022-08-05
 author: Jason Schlesinger
 tags: phone, software, Japan
 ---
-# Twilio Abroad
 When I moved abroad, I decided to keep my US number. It made sense to me to port my number over to Twilio, so I can keep it without needing to keep it on me.
 
 Twilio charges about $1/month for each phone number, and a few cents for SMS and calls. They're a service to help offload business' telephone needs, but as an individual the prices are eminently reasonable.
@@ -86,7 +85,3 @@ You should be able to point your softphone to your sipdomain.sip.twilio.com and 
 
 ## Concerns
 Twilio isn't designed for regular folks to muck about on, there's some pretty serious regulations regarding handling of sensitive data, and contacting people without prior affirmative consent. This varies from region to region, but this is the reason I don't discuss outbound 
-
-___
-Status: #new 
-Tags: #twilio #development #blog 

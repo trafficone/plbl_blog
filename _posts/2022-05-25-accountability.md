@@ -1,9 +1,9 @@
 ---
 tags: accountability, noscrum
+title: "On Accountability
+author: Jason Schlesinger
+date: 2022-08-
 ---
-
-# On Accountability
-
 The desire to do things is needs based, not goals based, so as I get closer to achieving a goal
 it becomes harder for me to actually achieve it. Over the past few years, I have been honing 
 techniques to accomplish **tangible goals** for projects both personal and professional.
