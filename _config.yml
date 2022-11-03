@@ -1,3 +1,7 @@
+name: PLant Blog
+description: Writings and Ramblings
+url: "https://blog.plbl.net"
+markdown: kramdown
 plugins_dir:
     - jekyll-relative-links
 relative_links:
